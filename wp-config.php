@@ -22,10 +22,14 @@ define('DB_NAME', 'gaming');
 define('DB_USER', 'root');
 
 /** MySQL database password */
+<<<<<<< HEAD
 define('DB_PASSWORD', '');
+=======
+define('DB_PASSWORD', 'ABSEC@b369');
+>>>>>>> refs/remotes/youssefsaoubou/master
 
 /** MySQL hostname */
-define('DB_HOST', 'localhost');
+define('DB_HOST', '46.105.15.63');
 
 /** Database Charset to use in creating database tables. */
 define('DB_CHARSET', 'utf8');
